@@ -3,5 +3,5 @@ Solutions to programming challenges across Advent of Code, Codewars and Project 
 with solutions and theory needs to be updated to the current challenges (as of September 2021), and just recently started tackling the Project Euler challenges.
 
 Visit my profiles in these pages for more:\
-Codewars (most active): https://www.codewars.com/users/marandmath
+Codewars (most active): https://www.codewars.com/users/marandmath \
 Project Euler: marandmath
